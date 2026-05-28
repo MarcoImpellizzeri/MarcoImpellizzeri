@@ -1,7 +1,7 @@
 Ciao! My name is Marco Impellizzeri
 ==========================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Web Developer · <a href="https://www.linkedin.com/in/marco-impellizzeri-710294291/" target="_blank" rel="noreferrer">LinkedIn</a>
 ------------------------
 
 I'm a Full Stack Web Developer with years of hands-on experience building a wide range of web projects — from business web apps and e-commerce platforms to landing pages and mobile applications. What drives me every day is the challenge of turning ideas into polished, functional digital products, working comfortably across both frontend and backend.
@@ -47,15 +47,3 @@ I'm always curious, always learning, and always looking for the next challenge.
 </p>
 
 I actively integrate AI tools into my development workflow — from code generation and debugging to design ideation and documentation. My go-to assistants are **Claude**, **Gemini**, and **ChatGPT**, each bringing unique strengths to different parts of the development process.
-
-### Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/marco-impellizzeri-710294291/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </picture>
-</a>
-</p>
